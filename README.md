@@ -6,9 +6,8 @@ Web developer and designer
 
 I am a front-end developer with 4 years of experience, plus 2 years of design background in advertising agencies. I'm passionate about creating cutting-edge, pixel-perfect, and beautiful UI/UX with clean code.
 
-*   🌍  I'm based in San Jose, CA, USA
+*   🌍  I'm based in CA, US
 *   🖥️  See my portfolio at [ember-chen.site](http://ember-chen.site)
-*   ✉️  You can contact me at [everydaycchen@gmail.com](mailto:everydaycchen@gmail.com)
 *   🧠  I'm learning MERN stack
 *   🤝  I'm open to collaborating on projects
 *   ⚡  I am a huge Harry Potter fan.
