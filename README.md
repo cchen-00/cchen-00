@@ -18,7 +18,7 @@ I am a front-end developer with 4 years of experience, plus 2 years of design ba
                     
 ### Socials
 <p align="left">
-                      <a href="https://www.behance.com/cchengraphfe83/moodboards" target="_blank" rel="noreferrer">
+                      <a href="https://www.behance.com/cchengraphfe83/projects" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" />
